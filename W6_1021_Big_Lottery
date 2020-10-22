@@ -4,7 +4,7 @@
 # In[21]:
 
 
-# Lottery number
+# Big_Lottery number
 # 大樂透頭獎號碼擷取
 
 import requests
